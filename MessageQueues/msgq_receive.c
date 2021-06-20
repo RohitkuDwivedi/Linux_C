@@ -1,5 +1,5 @@
 /*....................................................
-* Author: Rohit Ku Dwivedi
+* Author: Linus
 * ersanyamarya@gmail.com
 * https://www.facebook.com/er.sanyam.arya
 * https://www.linkedin.com/in/sanyam-arya-077ab638/
