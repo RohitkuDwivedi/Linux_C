@@ -1,5 +1,5 @@
 /*....................................................
-* Author: Deepak Ku
+* Author: Deepak Kumar Surname
 * ersanyamarya@gmail.com
 * https://www.facebook.com/er.sanyam.arya
 * https://www.linkedin.com/in/sanyam-arya-077ab638/
